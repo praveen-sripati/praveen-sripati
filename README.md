@@ -1,7 +1,5 @@
 # Hi, I'm Praveen Sripati 👋
 
-[![Twitter: praveen_sripati]](https://twitter.com/praveen_sripati)
-
 I am a Frontend developer and engineer. I enjoy working with Angular and SCSS. Interested in learning tech related stuff and enjoy watching movies. I Live in Bhiwandi, India.
 
 ## Get In Touch
