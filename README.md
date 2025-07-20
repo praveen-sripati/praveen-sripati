@@ -11,8 +11,8 @@ When I'm not coding, you can find me exploring new destinations or on the cricke
 Medium: medium.com/@pvnsripati
 Dev.to: dev.to/praveen-sripati
 
-#beingdev #codinglife #codewithcoffee #engineer #blogger
-Skills: HTML, CSS, Javascript, Angular, Ngrx, Nx, Node.js
+#beingdev #codinglife #codewithcoffee #engineer #blogger <br>
+Skills: HTML, CSS, Javascript, Typescript, Angular, React, Ngrx, Nx, Node.js
 
 ## Get In Touch
 * [LinkedIn](https://www.linkedin.com/in/praveen-sripati/)
